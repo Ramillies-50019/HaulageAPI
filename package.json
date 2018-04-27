@@ -1,0 +1,17 @@
+{
+  "name": "haulageapi",
+  "version": "1.0.0",
+  "description": "API for Haulage database",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Ian Sticklen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0"
+  }
+}
